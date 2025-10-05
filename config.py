@@ -8,8 +8,8 @@ OWNER_ID = 8371607189
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "" # shortner url 
-SHORT_API = "" 
+SHORT_URL = "linkshortify.com" # shortner url 
+SHORT_API = "c8c51280ae7b73b07b278a6ec131c3fb9d1598c5" 
 SHORT_TUT = "https://t.me/how_to_open_link_ak"
 
 # Bot Configuration

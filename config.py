@@ -14,12 +14,12 @@ SHORT_TUT = "https://t.me/how_to_open_link_ak"
 
 # Bot Configuration
 SESSION = "ak"
-TOKEN = "7795601004:AAHTKdr1u870_0UpgV7to2OMGQqD0omdClA"
+TOKEN = "77956010"
 API_ID = ""
 API_HASH = ""
 WORKERS = 5
 
-DB_URI = "mongodb+srv://akc:akc@cluster0.w6hlw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DB_URI = "mongodb+srv://"
 DB_NAME = "filesharexbot"
 
 FSUBS = [[-1002505014127, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]

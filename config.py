@@ -20,9 +20,9 @@ API_HASH = ""
 WORKERS = 5
 
 DB_URI = "mongodb+srv://akc:akc@cluster0.w6hlw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-DB_NAME = ""
+DB_NAME = "filesharexbot"
 
-FSUBS = [[-1001785093771, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1002505014127, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
 DB_CHANNEL =-1002515315359   # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)

@@ -13,7 +13,7 @@ SHORT_API = "c8c51280ae7b73b07b278a6ec131c3fb9d1598c5"
 SHORT_TUT = "https://t.me/how_to_open_link_ak"
 
 # Bot Configuration
-SESSION = "yato"
+SESSION = "ak"
 TOKEN = "7795601004:AAHTKdr1u870_0UpgV7to2OMGQqD0omdClA"
 API_ID = ""
 API_HASH = ""
